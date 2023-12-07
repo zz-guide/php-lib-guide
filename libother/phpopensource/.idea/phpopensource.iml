@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/holy-components/src" isTestSource="false" packagePrefix="Holy\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/aliyuncs/oss-sdk-php" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/elasticsearch/elasticsearch" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/guzzlehttp/ringphp" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/guzzlehttp/streams" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/illuminate/contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/illuminate/support" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/maatwebsite/excel" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/phpoffice/phpexcel" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/phpoffice/phpspreadsheet" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/qcloudsms/qcloudsms_php" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/react/promise" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/holy-components/vendor/vlucas/phpdotenv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

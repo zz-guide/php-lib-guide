@@ -1,0 +1,12 @@
+{
+    "name": "xulei/qrcode",
+    "authors": [
+        {
+            "name": "许磊",
+            "email": "373045134@qq.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "2.5.1"
+    }
+}
