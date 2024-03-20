@@ -1,0 +1,21 @@
+{
+    "name": "xulei/c_vendor",
+    "authors": [
+        {
+            "name": "许磊",
+            "email": "xulei131401@outlook.com"
+        }
+    ],
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Doraemon\\": "/var/www/yafworkspace/c_doraemon"
+        }
+    }
+}
