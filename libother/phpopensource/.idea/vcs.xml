@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/holy-DesignModel" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/holy-components" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/holy-components/vendor/aliyuncs/oss-sdk-php" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/holy-components/vendor/symfony/polyfill-mbstring" vcs="Git" />
-  </component>
-</project>
